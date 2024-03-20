@@ -76,7 +76,7 @@ function App() {
                 onChange={(e) => setPassword(e.target.value)}
               />
               <button type="submit">Login</button>
-              <a href="#">Forgot your password?</a>
+              <a href="mailto:support@smartserv.io">Forgot your password?</a>
             </form>
           </div>
           <ToastContainer />
